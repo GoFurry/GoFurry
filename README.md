@@ -54,16 +54,6 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
   </span>
 </p>
 
-<!-- LeetCode 单独一行居中 -->
-<p align="center">
-  <span style="display:inline-block; margin-right:10px;">
-    <img src="https://stats.justsong.cn/api/nowcoder?id=564069117&theme=gruvbox" />
-  </span>
-  <span style="display:inline-block; margin-left:10px;">
-    <img src="https://stats.justsong.cn/api/csdn?id=qq_43403504&theme=gruvbox" />
-  </span>
-</p>
-
 <p align="center">
   <span style="display:inline-block; margin-right:10px;">
     <img src="https://stats.justsong.cn/api/leetcode?username=hNPJUVQUMl&theme=gruvbox" />
