@@ -31,16 +31,51 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
 </div>
 
 ### 📊 GitHub Stats
-<div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=GoFurry&show_icons=true&bg_color=0d1117&title_color=ff9f1c&icon_color=ff9f1c&text_color=c9d1d9&border_color=30363d)
+<p align="center">
+  <span style="display:inline-block; margin-right:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=GoFurry&show_icons=true&bg_color=0d1117&title_color=ff9f1c&icon_color=ff9f1c&text_color=c9d1d9&border_color=30363d" />
+  </span>
+  <span style="display:inline-block; margin-left:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoFurry&layout=compact&bg_color=0d1117&title_color=ff9f1c&text_color=c9d1d9&border_color=30363d" />
+  </span>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoFurry&layout=compact&bg_color=0d1117&title_color=ff9f1c&text_color=c9d1d9&border_color=30363d)
 
-</div>
+## 🐲 Other Stats
+
+<!-- 牛客 + CSDN -->
+<p align="center">
+  <span style="display:inline-block; margin-right:10px;">
+    <img src="https://stats.justsong.cn/api/nowcoder?id=564069117&theme=gruvbox" />
+  </span>
+  <span style="display:inline-block; margin-left:10px;">
+    <img src="https://stats.justsong.cn/api/csdn?id=qq_43403504&theme=gruvbox" />
+  </span>
+</p>
+
+<!-- LeetCode 单独一行居中 -->
+<p align="center">
+  <span style="display:inline-block; margin-right:10px;">
+    <img src="https://stats.justsong.cn/api/nowcoder?id=564069117&theme=gruvbox" />
+  </span>
+  <span style="display:inline-block; margin-left:10px;">
+    <img src="https://stats.justsong.cn/api/csdn?id=qq_43403504&theme=gruvbox" />
+  </span>
+</p>
+
+<p align="center">
+  <span style="display:inline-block; margin-right:10px;">
+    <img src="https://stats.justsong.cn/api/leetcode?username=hNPJUVQUMl&theme=gruvbox" />
+  </span>
+  <span style="display:inline-block; margin-left:10px;">
+    <img src="https://stats.justsong.cn/api/leetcode?username=GoFurry&cn=true&theme=gruvbox&lang=zh-CN" />
+  </span>
+</p>
 
 ---
 
 ### 📫 Contact Me
 - Email: `2660621624@qq.com` 
+
 
