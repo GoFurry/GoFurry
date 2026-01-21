@@ -1,7 +1,7 @@
-## 👋 Hi, I'm 福狼
+## 🐺Hi, I'm 福狼
 
 Junior Full-Stack & DevOps Engineer  
-Go enthusiast · Backend · Middleware · Infrastructure
+Go enthusiast · Backend · Middleware · Infrastructure · Furry
 
 ---
 
@@ -22,10 +22,27 @@ Go enthusiast · Backend · Middleware · Infrastructure
 
 ---
 
-### 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=GoFurry&show_icons=true)
+### 🎮 Steam
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoFurry&layout=compact)
+<div align="center">
+
+[![Steam](https://img.shields.io/badge/Steam-Profile-ff9f1c?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/profiles/76561198370695025)
+[![Steam SDK](https://img.shields.io/badge/Steam%20SDK-gf--steam--sdk-8d6e63?logo=github&logoColor=white&style=flat-square)](https://github.com/GoFurry/gf-steam-sdk)
+[![Game Site](https://img.shields.io/badge/Game%20Site-go--furry.com-81b29a?logo=google-chrome&logoColor=white&style=flat-square)](https://go-furry.com/games)
+
+![Steam](![Steam Stats](https://steeeam.vercel.app/api/76561198370695025))
+
+</div>
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+![stats](https://github-readme-stats.vercel.app/api?username=GoFurry&show_icons=true&bg_color=0d1117&title_color=ff9f1c&icon_color=ff9f1c&text_color=c9d1d9&border_color=30363d)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoFurry&layout=compact&bg_color=0d1117&title_color=ff9f1c&text_color=c9d1d9&border_color=30363d)
+
+</div>
 
 ---
 
