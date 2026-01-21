@@ -22,9 +22,9 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
 
 <div align="center">
 
-[![Steam](https://img.shields.io/badge/Steam-Profile-ff9f1c?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/profiles/76561198370695025)
-[![Steam SDK](https://img.shields.io/badge/Steam%20SDK-gf--steam--sdk-8d6e63?logo=github&logoColor=white&style=flat-square)](https://github.com/GoFurry/gf-steam-sdk)
-[![Game Site](https://img.shields.io/badge/Game%20Site-go--furry.com-81b29a?logo=google-chrome&logoColor=white&style=flat-square)](https://go-furry.com/games)
+[![Steam](https://img.shields.io/badge/Steam-Profile-873332?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/profiles/76561198370695025)
+[![Steam SDK](https://img.shields.io/badge/Steam%20SDK-gf--steam--sdk-873332?logo=github&logoColor=white&style=flat-square)](https://github.com/GoFurry/gf-steam-sdk)
+[![Game Site](https://img.shields.io/badge/Game%20Site-go--furry.com-873332?logo=google-chrome&logoColor=white&style=flat-square)](https://go-furry.com/games)
 
 ![Steam Stats](https://steeeam.vercel.app/api/76561198370695025)
 
