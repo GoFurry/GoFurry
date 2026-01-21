@@ -59,7 +59,7 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
     <img src="https://stats.justsong.cn/api/leetcode?username=hNPJUVQUMl&theme=gruvbox" />
   </span>
   <span style="display:inline-block; margin-left:10px;">
-    <img src="https://stats.justsong.cn/api/leetcode?username=GoFurry&cn=true&theme=gruvbox&lang=zh-CN" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=gofurry&cn=true&theme=gruvbox&lang=zh-CN" />
   </span>
 </p>
 
