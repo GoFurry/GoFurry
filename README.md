@@ -3,8 +3,6 @@
 Junior Full-Stack & DevOps Engineer  
 Go enthusiast · Backend · Middleware · Infrastructure · Furry
 
----
-
 ### 🧰 Tech Stack
 
 #### 🔹 Languages (Proficient)
@@ -20,8 +18,6 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
 #### 🔹 Others
 ![Others](https://skillicons.dev/icons?i=debian)
 
----
-
 ### 🎮 Steam
 
 <div align="center">
@@ -30,10 +26,9 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
 [![Steam SDK](https://img.shields.io/badge/Steam%20SDK-gf--steam--sdk-8d6e63?logo=github&logoColor=white&style=flat-square)](https://github.com/GoFurry/gf-steam-sdk)
 [![Game Site](https://img.shields.io/badge/Game%20Site-go--furry.com-81b29a?logo=google-chrome&logoColor=white&style=flat-square)](https://go-furry.com/games)
 
-![Steam](![Steam Stats](https://steeeam.vercel.app/api/76561198370695025))
+![Steam Stats](https://steeeam.vercel.app/api/76561198370695025)
 
 </div>
----
 
 ### 📊 GitHub Stats
 <div align="center">
