@@ -3,18 +3,12 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
 
 ### 🧰 Tech Stack
 
-#### 🔹 Languages (Proficient)
-![Languages](https://skillicons.dev/icons?i=go)
-#### 🔹 Languages (Familiar)
-![Languages](https://skillicons.dev/icons?i=cpp,java,python)
+#### 🔹 Proficient Languages & Backend
+![Languages](https://skillicons.dev/icons?i=go,sqlite,postgres,nginx,redis,mongodb,kafka,elasticsearch)
 #### 🔹 Frontend
-![Frontend](https://skillicons.dev/icons?i=vue,angular)
-#### 🔹 Middleware / Backend
-![Frontend](https://skillicons.dev/icons?i=nginx,redis,mongodb,postgres,kafka,elasticsearch)
+![Frontend](https://skillicons.dev/icons?i=vue,angular,tailwind,pinia,ts)
 #### 🔹 Operations
-![Operations](https://skillicons.dev/icons?i=docker,ansible,prometheus,grafana)
-#### 🔹 Others
-![Others](https://skillicons.dev/icons?i=debian)
+![Operations](https://skillicons.dev/icons?i=debian,docker,ansible,prometheus,grafana)
 
 ### 🎮 Steam
 
