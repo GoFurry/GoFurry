@@ -23,32 +23,21 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
 ### 📊 GitHub Stats
 
 <p align="center">
-  <span style="display:inline-block;">
-    <img src="https://github-readme-stats-opal-alpha-76.vercel.app/api?username=GoFurry&show_icons=true&theme=gruvbox" />
-  </span>
+  <img
+    src="https://github-readme-stats-opal-alpha-76.vercel.app/api?username=GoFurry&show_icons=true&theme=gruvbox"
+    height="165"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoFurry&layout=compact&theme=gruvbox"
+    height="165"
+  />
 </p>
 
 
 ## 🐲 Other Stats
 
-<!-- 牛客 + CSDN -->
-<p align="center">
-  <span style="display:inline-block; margin-right:10px;">
-    <img src="https://stats.justsong.cn/api/nowcoder?id=564069117&theme=gruvbox" />
-  </span>
-  <span style="display:inline-block; margin-left:10px;">
-    <img src="https://stats.justsong.cn/api/csdn?id=qq_43403504&theme=gruvbox" />
-  </span>
-</p>
-
-<p align="center">
-  <span style="display:inline-block; margin-right:10px;">
-    <img src="https://stats.justsong.cn/api/leetcode?username=hNPJUVQUMl&theme=gruvbox" />
-  </span>
-  <span style="display:inline-block; margin-left:10px;">
-    <img src="https://stats.justsong.cn/api/leetcode?username=gofurry&cn=true&theme=gruvbox&lang=zh-CN" />
-  </span>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GoFurry&bg_color=504945&color=d4be98&line=d8a657&point=e78a4e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
