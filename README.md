@@ -23,15 +23,9 @@ Go enthusiast · Backend · Middleware · Infrastructure · Furry
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-opal-alpha-76.vercel.app/api?username=GoFurry&show_icons=true&theme=gruvbox"
-    height="165"
-  />
+  <img src="./profile/stats.svg" height="165" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoFurry&layout=compact&theme=gruvbox"
-    height="165"
-  />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 
 
