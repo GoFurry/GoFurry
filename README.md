@@ -14,45 +14,52 @@
 
 A production-oriented furry culture discovery platform built and maintained as a real multi-service web system.
 
-<table align="left" width="47%">
+<table align="left" width="45%">
   <tr>
     <th colspan="2" align="center">Engineering Scope</th>
   </tr>
   <tr>
-    <th width="24%">Scope</th>
-    <th width="76%">Highlights</th>
+    <th width="28%">Scope</th>
+    <th width="72%">Highlights</th>
   </tr>
   <tr>
     <td><strong>Architecture</strong></td>
     <td>
-      Nuxt 4 public frontend / Go/Fiber APIs<br>
-      Admin dashboard / Data collectors
+      Nuxt 4 public frontend<br>
+      Go/Fiber APIs<br>
+      Admin dashboard<br>
+      Data collectors
     </td>
   </tr>
   <tr>
     <td><strong>Data</strong></td>
     <td>
-      Furry site navigation / Steam intelligence<br>
+      Furry site navigation<br>
+      Steam intelligence<br>
       Ranking/detail/update pages
     </td>
   </tr>
   <tr>
     <td><strong>Infrastructure</strong></td>
     <td>
-      Docker deployment / Nginx reverse proxy<br>
-      PGVector / Redis / Ollama / Production scripts
+      Docker deployment<br>
+      Nginx reverse proxy<br>
+      PGVector / Redis / Ollama<br>
+      Production scripts
     </td>
   </tr>
   <tr>
     <td><strong>Engineering</strong></td>
     <td>
-      Vue SPA → Nuxt SSR migration / SEO pages<br>
-      Service separation / Experimental RAG
+      Vue SPA → Nuxt SSR migration<br>
+      SEO pages<br>
+      Service separation<br>
+      Experimental RAG
     </td>
   </tr>
 </table>
 
-<table align="right" width="47%">
+<table align="right" width="45%">
   <tr>
     <th colspan="2" align="center">Production Data</th>
   </tr>
@@ -63,34 +70,40 @@ A production-oriented furry culture discovery platform built and maintained as a
   <tr>
     <td><strong>Traffic</strong></td>
     <td>
-      1M+ daily-IP deduplicated visits
+      1M+ daily-IP<br>
+      deduplicated visits
     </td>
   </tr>
   <tr>
-    <td><strong>Community Reach</strong></td>
+    <td><strong>Community<br>Reach</strong></td>
     <td>
-      100K+ furry-community video views
+      100K+ furry-community<br>
+      video views
     </td>
   </tr>
   <tr>
     <td><strong>Performance</strong></td>
     <td>
-      Hot pages cached and refreshed<br>
-      on schedule Site-wide APIs P99 &lt; 100ms
+      Hot pages cached<br>
+      scheduled refresh<br>
+      Site-wide APIs P99 &lt; 100ms
     </td>
   </tr>
   <tr>
     <td><strong>Security</strong></td>
     <td>
-      Coraza WAF / Tencent Cloud CDN / COS<br>
-      10M+ security/probe events retained
+      Coraza WAF<br>
+      Tencent Cloud CDN / COS<br>
+      10M+ probe events retained
     </td>
   </tr>
   <tr>
     <td><strong>Operations</strong></td>
     <td>
-      Production deployment Cache refresh<br>
-      Access analysis Service monitoring
+      Production deployment<br>
+      Cache refresh<br>
+      Access analysis<br>
+      Service monitoring
     </td>
   </tr>
 </table>
