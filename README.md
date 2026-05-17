@@ -14,7 +14,7 @@
 
 A production-oriented furry culture discovery platform built and maintained as a real multi-service web system.
 
-<table align="left" width="49%">
+<table align="left" width="47%">
   <tr>
     <th colspan="2" align="center">Engineering Scope</th>
   </tr>
@@ -52,7 +52,7 @@ A production-oriented furry culture discovery platform built and maintained as a
   </tr>
 </table>
 
-<table align="right" width="49%">
+<table align="right" width="47%">
   <tr>
     <th colspan="2" align="center">Production Data</th>
   </tr>
